@@ -1,4 +1,6 @@
-# Магазин обуви (Desktop приложение)
+# Магазин обуви
+
+[![Maintainability](https://qlty.sh/gh/anananmd/projects/shoe_store_practice_1/maintainability.svg)](https://qlty.sh/gh/anananmd/projects/shoe_store_practice_1)
 
 Десктопное приложение для управления магазином обуви с поддержкой ролей пользователей, корзины, заказов и импорта данных из Excel.
 
